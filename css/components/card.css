@@ -1,0 +1,35 @@
+.container h2
+{
+  text-align: center;
+}
+
+.card
+{
+  width: 245px;
+  height: 280px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);  
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.card > img
+{
+  width: 100px;
+}
+
+.card p
+{
+  color: grey;
+  text-align: center;
+}
+
+.cards
+{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}

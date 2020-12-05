@@ -1,0 +1,22 @@
+footer
+{
+  background: #2C2B2B;
+  color: grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 70px;
+}
+
+footer ul
+{
+  display: flex;
+}
+
+footer li
+{
+  margin: 10px;
+  font-size: 30px;
+  color: #00E773;
+}
